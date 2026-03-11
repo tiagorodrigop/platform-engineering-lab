@@ -2,7 +2,7 @@
 
 ## AWS
 
-1. AWS Cloud Practitioner
+1. AWS Cloud Practitioner - OK
 2. AWS Solutions Architect Associate
 3. AWS Developer Associate
 4. AWS SysOps Associate
