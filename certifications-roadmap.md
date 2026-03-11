@@ -3,7 +3,7 @@
 ## AWS
 
 1. AWS Cloud Practitioner - OK
-2. AWS Solutions Architect Associate
+2. AWS Solutions Architect Associate - In progress
 3. AWS Developer Associate
 4. AWS SysOps Associate
 5. AWS Solutions Architect Professional
@@ -28,7 +28,7 @@
 ## SAFe
 
 1. Leading SAFe
-2. SAFe Lean Product Management - OK 
+2. SAFe Lean Portfolio Management (LPM) - OK 
 3. SAFe Scrum Master
 4. SAFe Product Owner/Product Manager
 5. SAFe DevOps
