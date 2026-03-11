@@ -28,7 +28,8 @@
 ## SAFe
 
 1. Leading SAFe
-2. SAFe Scrum Master
-3. SAFe Product Owner/Product Manager
-4. SAFe DevOps
-5. SAFe Architect
+2. SAFe Lean Product Management - OK 
+3. SAFe Scrum Master
+4. SAFe Product Owner/Product Manager
+5. SAFe DevOps
+6. SAFe Architect
