@@ -1,3 +1,5 @@
+Last update: 2026
+
 # Certification Roadmap
 
 This document tracks my certification journey in Cloud, DevOps, Platform Engineering, and Architecture while building the EUKIS platform at Jitech.
